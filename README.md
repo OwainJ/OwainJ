@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 ## Socials
 - Blog: https://www.owainjones.dev/
 - Mastodon: https://umbracocommunity.social/@ojodev
+- Bluesky: https://bsky.app/profile/ojodev.bsky.social
 - Twitter: https://twitter.com/The_DarkGhost
 - LinkedIn: https://www.linkedin.com/in/owain-jones-08414b108/
 
