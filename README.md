@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - Twitter: https://twitter.com/The_DarkGhost
 - LinkedIn: https://www.linkedin.com/in/owain-jones-08414b108/
 
-## Certifications
+## Certifications & Awards
 <p>
   <img src="https://github.com/user-attachments/assets/b3cdcdfc-7230-4e35-a7f4-a9a05dab1c31" height="100" hspace="10" />
   <img src="https://github.com/user-attachments/assets/09b86f4d-4135-44c2-9e6e-d9804e5da197" height="100" hspace="10" /> 
