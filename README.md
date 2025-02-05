@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 ## Certifications & Awards
 <p>
   <img src="https://github.com/user-attachments/assets/b3cdcdfc-7230-4e35-a7f4-a9a05dab1c31" height="100" hspace="10" />
-  <img src="https://github.com/user-attachments/assets/09b86f4d-4135-44c2-9e6e-d9804e5da197" height="100" hspace="10" /> 
+  <img src="https://github.com/user-attachments/assets/240a749f-2e90-4a49-a142-8de610c31029" height="100" hspace="10" /> 
   <img src="https://github.com/user-attachments/assets/4d387779-032e-4ad3-b442-9137529aa77e" height="100" hspace="10" />
 </p>
