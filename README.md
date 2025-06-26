@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 ## Certifications & Awards
 <p>
   <img src="https://github.com/user-attachments/assets/e4218a21-0bcc-475e-9f9c-d99cbbdde3d2" height="60" hspace="10" alt="Umbraco MVP 2021" />
-  <img src="https://github.com/user-attachments/assets/bd7c61d7-98c0-4e2f-b69c-dcf18934c253" height="60" hspace="10" alt="Umbraco MVP 2022" />
-  <img src="https://github.com/user-attachments/assets/2443e73c-9378-423c-aabe-77475eb74a0e" height="60" hspace="10" alt="Umbraco MVP 2023" />
+  <img src="https://github.com/user-attachments/assets/45b0fa72-73ce-4cdf-8a99-9094d3d9c3d7" height="60" hspace="10" alt="Umbraco MVP 2022" />
+  <img src="https://github.com/user-attachments/assets/b3be2020-bf7c-4c0b-abf2-c9f909ddc432" height="60" hspace="10" alt="Umbraco MVP 2023" />
 </p>
 
 <p>
