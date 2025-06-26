@@ -31,7 +31,14 @@ Here are some ideas to get you started:
 
 ## Certifications & Awards
 <p>
-  <img src="https://github.com/user-attachments/assets/b3cdcdfc-7230-4e35-a7f4-a9a05dab1c31" height="100" hspace="10" />
-  <img src="https://github.com/user-attachments/assets/240a749f-2e90-4a49-a142-8de610c31029" height="100" hspace="10" /> 
-  <img src="https://github.com/user-attachments/assets/4d387779-032e-4ad3-b442-9137529aa77e" height="100" hspace="10" />
+  <img src="https://github.com/user-attachments/assets/e4218a21-0bcc-475e-9f9c-d99cbbdde3d2" height="60" hspace="10" alt="Umbraco MVP 2021" />
+  <img src="https://github.com/user-attachments/assets/bd7c61d7-98c0-4e2f-b69c-dcf18934c253" height="60" hspace="10" alt="Umbraco MVP 2022" />
+  <img src="https://github.com/user-attachments/assets/2443e73c-9378-423c-aabe-77475eb74a0e" height="60" hspace="10" alt="Umbraco MVP 2023" />
+</p>
+
+<p>
+  <img src="https://github.com/user-attachments/assets/b3cdcdfc-7230-4e35-a7f4-a9a05dab1c31" height="100" hspace="10" alt="Umbraco MVP 2024" />
+  <img src="https://github.com/user-attachments/assets/4362b504-ae6c-4707-9e73-530681e545ce" height="100" hspace="10" alt="Umbraco MVP 2025" />
+  <img src="https://github.com/user-attachments/assets/240a749f-2e90-4a49-a142-8de610c31029" height="100" hspace="10" alt="Umbraco Certified Master" /> 
+  <img src="https://github.com/user-attachments/assets/4d387779-032e-4ad3-b442-9137529aa77e" height="100" hspace="10" alt="PSM1 - Professional Scrum Master 1" />
 </p>
